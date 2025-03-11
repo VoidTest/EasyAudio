@@ -1,0 +1,2 @@
+C:\Users\aleks\Desktop\void macro\WebApplication1\WebApplication1\bin\Release\net9.0-windows\win-x64\publish\WebApplication1.pdb
+C:\Users\aleks\Desktop\void macro\WebApplication1\WebApplication1\bin\Release\net9.0-windows\win-x64\publish\WebApplication1.exe
